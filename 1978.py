@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/1978 소수 찾기
+
 N = int(input())
 a = list(map(int, input().split()))
 counting = 0
