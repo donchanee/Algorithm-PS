@@ -5,7 +5,6 @@
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-
 int main() {
 	int T, H, W, N, ho, ch, room;
 
