@@ -7,5 +7,4 @@ def fibo (num):
         return fibo(num-1)+fibo(num-2)
 
 n = int(input())
-
 print(fibo(n))
