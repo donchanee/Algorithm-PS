@@ -12,7 +12,6 @@ int self_num(int i) {
     if(i>=10) {res += i/10; i%=10;}
     return res += i;
 }
-
 int main() {
     for(int i = 1;i<=10000;i++) {
         d[self_num(i)] = 1;
