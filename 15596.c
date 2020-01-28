@@ -9,3 +9,4 @@ long long sum(int *a, int n) {
 	}
 	return ans;
 }
+
