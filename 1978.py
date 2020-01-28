@@ -13,5 +13,4 @@ for i in a:
             cnt += 1
     if(cnt == 1):
         counting += 1
-        
 print(counting)
