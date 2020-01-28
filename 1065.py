@@ -3,7 +3,6 @@
 
 num = int(input())
 hansu = 0
-
 for n in range(1, num+1) :
     if n <= 99 :
         hansu += 1 
