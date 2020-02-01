@@ -1,3 +1,5 @@
+# 8*8로 잘라야함
+
 N, M = map(int, input().split())
 a = []
 cnt = 0
@@ -17,10 +19,5 @@ for i in a:
             flag = 'W'
         else:
             cnt += 1
-            if flag =='W':
-                flag = 'B'
-            else:
-                flag = 'W'
-        print(flag)
-
+            
 print(cnt-N)
