@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/4948 베르트랑 공준
+
 n=123456*2
 a = [False,False] + [True]*(n-1)
 primes=[]
