@@ -1,4 +1,4 @@
-# https://www.acmicpc.net/problem/2581 소수
+# https://www.acmicpc.net/problem/2581  소수
 
 M = int(input())
 N = int(input())
