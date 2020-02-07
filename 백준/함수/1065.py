@@ -1,5 +1,4 @@
-# https://www.acmicpc.net/problem/1065
-# 한수
+# https://www.acmicpc.net/problem/1065 한수
 
 num = int(input())
 hansu = 0
