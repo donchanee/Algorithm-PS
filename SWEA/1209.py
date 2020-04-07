@@ -7,7 +7,7 @@ for _ in range(10):
     for _ in range(100):
         a.append(list(map(int, input().split())))
         # a.append(list(map(int, sys.stdin.readline().split())))
-        # Swea에선 sys 라이브러리를 사용하지 못하게 한다... 외부라이브러리라 그런가..?
+        # Swea에선 sys 라이브러리를 사용하지 못하게 한다... 외부라이브러리라 그런가.?
 
     for i in a:
         if sum(i) > max:
