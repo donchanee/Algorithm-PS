@@ -18,3 +18,8 @@ Will update codeforce.
   
 Goal
 하루에 약 3문제정도씩 풀기
+
+
+카카오 추천팀 인턴 코테
+
+토스 코테
