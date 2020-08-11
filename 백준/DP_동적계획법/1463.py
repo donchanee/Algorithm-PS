@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/1463 1로 만들기
+
 N = int(input())
 count = 0
 R=[N]
