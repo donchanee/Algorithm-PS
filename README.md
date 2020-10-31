@@ -1,5 +1,5 @@
 # Algorithm-PS
-baekjoon / atcoder / SWEA
+baekjoon / SWEA / Programmers
 
 Algorithm Problem-Solving
 
